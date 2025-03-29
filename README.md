@@ -8,13 +8,17 @@ We first tested all the interaction modes we can do without a controller on ques
 ---
 ## **DEMOs**
 
-<iframe width="640" height="360"
+<iframe width="800" height="450"
   src="https://www.youtube.com/embed/RMKLCz-h5Nk"
   frameborder="0"
   allowfullscreen>
 </iframe>
 
-
+<iframe width="800" height="450"
+  src="https://www.youtube.com/embed/eAtpDG1BIk8"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 ---
 
 ## **Models and Shaders**
