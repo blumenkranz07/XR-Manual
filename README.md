@@ -9,7 +9,7 @@ We first tested all the interaction modes we can do without a controller on ques
 ## **DEMOs**
 
 <iframe width="640" height="360"
-  src="https://youtu.be/RMKLCz-h5Nk"
+  src="https://www.youtube.com/embed/RMKLCz-h5Nk"
   frameborder="0"
   allowfullscreen>
 </iframe>
